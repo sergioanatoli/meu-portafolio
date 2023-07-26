@@ -6,6 +6,7 @@
 
 .cards img{
     width: 500px;
+    transition-duration: 0.3s;
 }
 
 .cards img:hover{
